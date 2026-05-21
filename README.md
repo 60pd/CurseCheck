@@ -17,4 +17,4 @@ Fast + hardened username availability checker using proxies.
 
 ## maybe i will drop src, but not now
 ## hmu if u got questions, bye
-## Author : @memoryfail
+## Author : @chasyr
